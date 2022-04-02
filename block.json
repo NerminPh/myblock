@@ -1,0 +1,10 @@
+{
+    "apiVersion": 2,
+    "name": "blocks-course/myblock",
+    "title": "My Block",
+    "description": "My block",
+    "category": "text",
+    "icon": "format-status",
+    "textdomain": "myblock",
+    "editorScript": "file:./build/index.js"
+}
